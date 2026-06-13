@@ -40,7 +40,7 @@ Passionate about solving complex problems through code. I work across the full s
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=936erpl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=936erpl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/" alt="Top Languages" />
 </div>
 
 ---
