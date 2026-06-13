@@ -49,11 +49,11 @@ Passionate about solving complex problems through code. I work across the full s
 
 <div align="center">
 
-[![User Account Control Bypass](https://img.shields.io/badge/Project_1-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/uac)
+[![Project 1](https://img.shields.io/badge/User_Account_Control_Bypass-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/uac)
 
-[![GDI Malware](https://img.shields.io/badge/Project_2-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/PoC)
+[![Project 2](https://img.shields.io/badge/GDI_Malware-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/PoC)
 
-[![Project 3](https://img.shields.io/badge/Project_3-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/project3)
+[![Project 3](https://img.shields.io/badge/Soon-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/project3)
 
 </div>
 
