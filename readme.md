@@ -76,5 +76,5 @@ Passionate about solving complex problems through code. I work across the full s
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=936erpl&style=flat-square&color=white" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=936erpl&style=flat-square" alt="Profile Views" />
 </div>
