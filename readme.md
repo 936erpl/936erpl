@@ -1,15 +1,15 @@
 # Hi there
 
-I'm a developer focused on building efficient and innovative solutions. Always learning, always coding.
+I'm a developer focused on building non-efficient and absolutely not innovative solutions. Always larping, always pasting.
 
 ---
 
 ## About
 
-Passionate about solving complex problems through code. I work across the full stack with an emphasis on backend development and system optimization.
+Passionate about complex shit I can't even understand sometimes.
 
 - Full Stack Developer
-- Problem solver
+- Problem creator
 - Continuous learner
 
 ---
