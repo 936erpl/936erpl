@@ -39,8 +39,11 @@ Passionate about solving complex problems through code. I work across the full s
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=936erpl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=936erpl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=936erpl&theme=tokyo-night&hide_border=true" />
+
+  <br><br>
+
+  <img width="500" src="https://streak-stats.demolab.com?user=936erpl&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -53,7 +56,7 @@ Passionate about solving complex problems through code. I work across the full s
 
 [![Project 2](https://img.shields.io/badge/GDI_Malware-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/PoC)
 
-[![Project 3](https://img.shields.io/badge/Soon-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/project3)
+[![Project 3](https://img.shields.io/badge/IDA_RPC-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/936erpl/IDA-RPC)
 
 </div>
 
