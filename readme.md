@@ -26,7 +26,7 @@ Most of my projects start with:
 
 and end with:
 
-> "Oh. It actually works."
+> "damn, that does in fact work somehow."
 
 ### Currently interested in
 
