@@ -118,20 +118,7 @@ To make it very short, its just visuals on Discord.
 ## `philosophy`
 
 ```text
-if (it works)
-{
-    don't touch it;
-}
-
-if (it doesn't work)
-{
-    blame Windows;
-}
-
-if (Windows isn't involved)
-{
-    blame the compiler;
-}
+if it doesn't work just blame github for not having the src ready for me to skid
 ```
 
 I don't necessarily write **good** software.
