@@ -22,11 +22,11 @@ I like taking things apart, figuring out how they work, and occasionally putting
 
 Most of my projects start with:
 
-> "I wonder if this is possible."
+> si ça fonctionne wallah jvend mes pieds sur of
 
 and end with:
 
-> "damn, that does in fact work somehow."
+> onlyfans dispo ici : eurosearcher.xyz/639
 
 ### Currently interested in
 
