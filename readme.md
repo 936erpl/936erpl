@@ -1,164 +1,87 @@
-# 936erpl
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Reversinglabs&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Reverse%20Engineering%20%C2%B7%20Windows%20Internals%20%C2%B7%20Binary%20Analysis&descSize=16&descAlignY=60" width="100%" />
+
+<a href="https://github.com/936erpl">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Reverse+engineer+%26+developer;Binary+analysis+and+software+protections;Windows+internals+and+malware+research" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<a href="https://discord.com/invite/erpl"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://eurosearcher.xyz/"><img src="https://img.shields.io/badge/Website-0d1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:admin@eurosearcher.xyz"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## About
+
+Developer and reverse engineer focused on binary analysis, low-level programming and security research.
+
+**Focus areas**
+
+- Reverse engineering & binary analysis
+- Windows internals
+- Software protection & obfuscation
+- Malware analysis & PoCs
+- Game / application internals
+- Python tooling & automation
+
+---
+
+## Toolbox
 
 <div align="center">
 
-### `reverse engineering • systems • security • questionable decisions`
+<img src="https://skillicons.dev/icons?i=c,cpp,py,cmake,git,docker,windows&theme=dark" />
 
-*Building things that probably shouldn't work, then spending 14 hours figuring out why they do.*
+<br><br>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/erpl)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://eurosearcher.xyz/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:admin@eurosearcher.xyz)
-
-</div>
-
----
-
-## `whoami`
-
-I'm a developer interested in **reverse engineering, low-level programming, security research and generally making complicated things more complicated than they need to be.**
-
-I like taking things apart, figuring out how they work, and occasionally putting them back together in a slightly worse state.
-
-Most of my projects start with:
-
-> si ça fonctionne wallah jvend mes pieds sur of
-
-and end with:
-
-> onlyfans dispo ici : eurosearcher.xyz/639
-
-### Currently interested in
-
-* Reverse engineering & binary analysis
-* Windows internals
-* C / C++
-* Python tooling & automation
-* Malware analysis & PoCs
-* Software protection & obfuscation
-* Game / application internals
-* API & infrastructure development
-* Building tools nobody asked for
-* And womens.
-
----
-
-## `stack`
-
-### Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Web / Runtime
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tooling
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-
-### Reverse Engineering
-
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-1A1A1A?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF6600?style=for-the-badge\&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-1E1E1E?style=for-the-badge\&logoColor=white)
-
----
-
-## `projects`
-
-### [UAC Bypass](https://github.com/936erpl/uac)
-
-Windows security research / UAC bypass research project.
-
-To make it short, its becoming Terry A. Davis on your computer.
-
----
-
-### [GDI Malware](https://github.com/936erpl/PoC)
-
-Research PoC exploring Windows GDI internals and techniques commonly encountered during malware analysis.
-
-To make it a bit short, its a lot of color on your screen and your pc go boom boom.
-
----
-
-### [IDA-RPC](https://github.com/936erpl/IDA-RPC)
-
-Using Discord's Custom Rich Presence to show that you are a professional engineer in IDA.
-
-To make it very short, its just visuals on Discord.
-
----
-
-## `github stats`
-
-
-<img height="700" src="https://ghstats.dev/api/card?username=936erpl&theme=tokyonight" />
-
-</div>
-
-<br>
-
+<img src="https://img.shields.io/badge/IDA%20Pro-1A1A1A?style=flat-square" />
+<img src="https://img.shields.io/badge/Ghidra-FF6600?style=flat-square" />
+<img src="https://img.shields.io/badge/x64dbg-1E1E1E?style=flat-square" />
 
 </div>
 
 ---
 
-## `philosophy`
+## Projects
 
-```text
-if it doesn't work just blame github for not having the src ready for me to skid
-```
-
-I don't necessarily write **good** software.
-
-I write software that eventually becomes **someone else's problem**.
-
----
-
-## `random facts`
-
-* I enjoy reverse engineering things I probably shouldn't have opened in the first place.
-* I make projects that take significantly longer than they should.
-* I have a questionable relationship with documentation.
-* `printf()` has solved more problems than it reasonably should have.
-* I occasionally remember that Git has a commit history.
-* I like women.
-* I probably should have stopped coding three hours ago.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/936erpl/uac">UAC Bypass</a></h3>
+      Research on Windows privilege elevation mechanisms and UAC bypass techniques.
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/936erpl/PoC">GDI Malware PoC</a></h3>
+      PoC exploring GDI internals and the visual payload techniques commonly seen in malware analysis.
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/936erpl/IDA-RPC">IDA-RPC</a></h3>
+      Discord Rich Presence for IDA, showing your current reversing activity.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `contact`
+## Activity
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/erpl)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://eurosearcher.xyz/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:admin@eurosearcher.xyz)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/936erpl/936erpl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/936erpl/936erpl/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/936erpl/936erpl/output/github-snake-dark.svg" />
+</picture>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=936erpl&style=flat-square" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-### `thanks for stopping by`
-
-<sub>probably working on something unnecessary right now.</sub>
+<a href="https://discord.com/invite/erpl"><img src="https://img.shields.io/badge/JOIN%20THE%20DISCORD-1f6feb?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" />
